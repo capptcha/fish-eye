@@ -1,2 +1,6 @@
 # fish-eye
-fish eye Captcha
+
+```
+javac fisheye.java
+java fisheye
+```
